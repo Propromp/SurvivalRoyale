@@ -1,0 +1,15 @@
+name: SurvivalRoyale
+version: @version@
+main: net.propromp.survivalroyale.SurvivalRoyale
+api-version: 1.16
+permissions:
+  survivalroyale.reset:
+    default: op
+  survivalroyale.start:
+    default: op
+  survivalroyale.stop:
+    default: op
+  survivalroyale.selectcharacter:
+    default: true
+  survivalroyale.ability:
+    default: true
